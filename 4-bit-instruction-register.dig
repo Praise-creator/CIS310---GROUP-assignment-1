@@ -27,6 +27,10 @@
       <elementName>Clock</elementName>
       <elementAttributes>
         <entry>
+          <string>runRealTime</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
           <string>Label</string>
           <string>clk</string>
         </entry>
@@ -132,8 +136,12 @@
       <pos x="-100" y="40"/>
     </visualElement>
     <visualElement>
-      <elementName>Const</elementName>
+      <elementName>In</elementName>
       <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Input</string>
+        </entry>
         <entry>
           <string>Bits</string>
           <int>4</int>
