@@ -9,14 +9,14 @@ Program-counter- 4 bit adder (increments the value by one constantly) CTRL(read,
 
 Instruction-Register- Input (input of 4 bits), Output (output of 4-bits), CTRL (Read, write, and clear. 0 is read, 1 is write, 2 is clear)
 
-DRAM_with_registers - Program counter (gives input to Address), Address (provides address to Dram), Input_Mem (gives input to IR), IR (shows output of current address), All CTRL (Load, set, reset)
+Registers_DRAM - Program counter (gives input to Address), Address (provides address to Dram), Input_Mem (gives input to IR), IR (shows output of current address), All CTRL (Load, set, reset)
 
 Test SS
 
 4 bit Register:
 ![image](https://github.com/user-attachments/assets/fbe0adbc-b946-4cd6-9602-93278bc69a81)
 
-General Purpose Register:
+4-bit wide, 16-address DRAM:
 ![image](https://github.com/user-attachments/assets/57efe566-a3a5-4735-8c03-c837937dd641)
 
 
