@@ -16,7 +16,7 @@ Test SS
 4 bit Register:
 ![image](https://github.com/user-attachments/assets/fbe0adbc-b946-4cd6-9602-93278bc69a81)
 
-4-bit wide, 16-address DRAM:
+DRAM:
 ![image](https://github.com/user-attachments/assets/57efe566-a3a5-4735-8c03-c837937dd641)
 
 
