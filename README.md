@@ -7,9 +7,9 @@ General_Purpose_Register- Input (provides 4-bit values to address pointed to), A
 
 Program-counter- 4 bit adder (increments the value by one constantly) CTRL(read, write, clear, 0,1,2).
 
-Intruction-counter- Input (input of 4 bits), Output (output of 4-bits), CTRL (Read, write, and clear. 0 is read, 1 is write, 2 is clear)
+Instruction-Register- Input (input of 4 bits), Output (output of 4-bits), CTRL (Read, write, and clear. 0 is read, 1 is write, 2 is clear)
 
-DRAM_with_registers - Program counter (gives input to Address), Address (provides address to GPR), Input_Mem (gives input to IR), IR (shows output of current address), All CTRL (Load, set, reset)
+DRAM_with_registers - Program counter (gives input to Address), Address (provides address to Dram), Input_Mem (gives input to IR), IR (shows output of current address), All CTRL (Load, set, reset)
 
 Test SS
 
